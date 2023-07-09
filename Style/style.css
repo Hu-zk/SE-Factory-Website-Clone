@@ -236,7 +236,6 @@ iframe {
 }
 
 .boxes {
-  /* border: 2pt red solid; */
   display: flex;
   justify-content: space-between;
   width: 80vw;
@@ -455,7 +454,7 @@ p {
   margin-left: 20px;
 }
 
-#hire {
+#hire-talent {
   height: 100vh;
   background-color: #363738;
   color: #fcfcfd;
